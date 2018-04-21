@@ -1,2 +1,2 @@
 # matlab
-This is only a try in code
+This file contians some script i used to deal the data
