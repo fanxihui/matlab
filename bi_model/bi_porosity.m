@@ -1,6 +1,6 @@
 % data input
-clc
-clear
+clc  
+clear   
 data = xlsread('data.xlsx');
 format long
 for test=1:20;                  %计算的项目
